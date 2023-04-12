@@ -1,0 +1,20 @@
+{
+"ENMITY_GENERAL": "General",
+"ENMITY_PLUGINS": "Complementos",
+"ENMITY_THEMES": "Temas",
+"ENMITY_UPDATER": "Actualizador",
+"ENMITY_DEBUG_LOGS": "Registros de depuración",
+"ENMITY_SEARCH_PLUGINS": "Buscar complementos...",
+"ENMITY_SEARCH_THEMES": "Buscar temas...",
+"ENMITY_SEARCH_ASSETS": "Buscar recursos...",
+"ENMITY_DEVELOPMENT_SETTINGS": "Configuración de desarrollo",
+"ENMITY_DEBUG_BRIDGE_IP": "IP de depuración",
+"ENMITY_DEBUG_BRIDGE_CONNECT": "Conectar al puente de depuración al iniciar",
+"ENMITY_DEBUG_BRIDGE": "Puente de depuración",
+"ENMITY_TOAST_SETTINGS": "Configuración de Toast",
+"ENMITY_ASSET_BROWSER": "Navegador de recursos",
+"ENMITY_ADDON_NO_DESCRIPTION": "No se proporcionó descripción.",
+"ENMITY_INSTALL": "Instalar",
+"ENMITY_INSTALL_TITLE": "Instalar {type}",
+"ENMITY_ADDON_FAILED": "Error al cargar complemento: {error}"
+}
